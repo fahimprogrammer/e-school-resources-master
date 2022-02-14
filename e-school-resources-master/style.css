@@ -1,0 +1,139 @@
+.img-logo{
+   width: 200px;
+   height: 60px;
+   top: 30px;
+   left: 212px;
+}
+.nav-color{
+    background: #21B573;
+    border-radius: 25px;
+    Width :104px;
+    height:43px ; 
+}
+.div-1{
+    background: #F0FFF0;
+}
+.red{
+    color: red;
+}
+.bold{
+    font-weight: bold;
+}
+.green{
+    color:#21B573 ;
+}
+.buy-now-button{
+    background-color: #21B573;
+    color: white;
+    Width :153px;
+    height: 43px;
+    border-radius: 33px;
+}
+.img-class{
+    height: 85px;
+    width: 70px;
+    position: relative;
+    top: 30px;
+}
+.img-class1{
+   width: 250px;
+   height: 250px;
+   background: #F8FFFB;
+   border-radius: 10px;
+   text-align: center;
+
+}
+.img-new{
+    padding-top: 100px;
+}
+.img-class3{
+    background: #FFFFFF;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 5px 5px 10px gray;
+}
+.card-3{
+    height: 450px;
+    width: 370px;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+    
+}
+.card-img{
+    height: 234px;
+    width: 331px;
+    border-radius: 11px;
+    position: relative;
+    top: 10px;
+    left: 15px;
+}
+.card-text{
+    position: relative;
+    left: 30px;
+    top: 30px;
+}
+.h1-1{
+    padding-top: 75px;
+    padding-bottom: 80px;
+    font-weight: bold;
+}
+.icone-p{
+    position: relative;
+    top: 50px;
+    left: 26px;
+    padding-top: 10px;
+    font-weight: 500;
+}
+.span-icone{
+    position: relative;
+    left: 10px;
+}
+.card-text1{
+    position: relative;
+    top: 10px;
+    left: 270px;
+}
+.card2-img{
+    position: relative;
+    height: 120px;
+    width: 120px;
+    left: 250px;
+}
+.card2-p{
+    position: relative;
+    left: 390px;
+    bottom: 110px;
+}
+.fotter-all{
+    width: 1440px;
+    height: 369px;
+    background: #282531;
+}
+.h5-fotter{
+    color: white;
+    position: relative;
+    top: 100px;
+    left: 30px;
+}
+.ul-fotter{
+    color: white;
+    position: relative;
+    right: 80px;
+    top: 80px;
+}
+.ul-fotter-1{
+    color: white;
+}
+.ul-fotter-2{
+    color: white;
+}
+ul {
+    list-style-type: none;
+}
+.p-c{
+    position: relative;
+    bottom: 30px;
+}
